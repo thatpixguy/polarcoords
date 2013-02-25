@@ -1,0 +1,3 @@
+POLARXYZ($$[1],$$[2],$$[3],#ny,#np,#d);
+#nny = #ny + 180;
+LOOK(%#nny%,%#np%,0);
