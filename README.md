@@ -3,6 +3,10 @@ polarcoords
 
 my 3d-enhanced version of http://eq2.co.uk/minecraft/mods/modules/api8/module_polarcoords.jar
 
+INSTALLING:
+
+- Copy the .jar file (available here http://tinyurl.com/polarcoords-api9) to .minecraft/mods/macros/modules
+
 BUILDING:
 
 - Modify the MCP_DIR and INSTALL_DIR paths in build.sh
