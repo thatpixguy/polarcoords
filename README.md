@@ -13,3 +13,5 @@ BUILDING:
 
 - Copy the module into MCP_DIR/libs and rename to .jar
   eg. cp $HOME/.minecraft/mods/mod_macros_0.9.8.2_for_1.5.1.litemod $MCP_DIR/libs/mod_macros.jar
+
+- Run ./build.sh
